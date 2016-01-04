@@ -24,6 +24,7 @@ ITERATIVE:Most Efficient.
 the generic data type that will be implemented further in terms of data usage. 
 Usually the stackframes are considered to be huge when compared to the data types.
 For instance , the int when used as data .
+	
 	Advantages:
 	1.Efficient in memory usage.
 
@@ -39,7 +40,9 @@ the generic data type that will be implemented further in terms of data usage.
 TODO LIST:
 
 1.The data in the Node class can be made generic in both classes.
+
 2.The comparePresentToPrev method can be made to work with generic data type.
+
 3.The validation method i.e. ValidationOnBTree functionality can be extended 
   to work with the threaded or distributed environment .
 
